@@ -2,8 +2,9 @@
 A group project in CityU </br>
 Cooperate: HEO Junyeong, Ng Ka Long, Lung Ching Hei </br>
 Update the government app "iSmart" interface </br>
+</br>
+For more detail, please read the Report.</br>
 
-For more detail, please read the Report.
 <img src="https://github.com/chiyiulee/HCIProject/assets/56904293/e763c207-7ddd-4c32-8b0b-9f5b18bcae52" width="250">
 <img src="https://github.com/chiyiulee/HCIProject/assets/56904293/6ba65659-da40-4512-b9eb-dcce3dcf67ca" width="250">
 <img src="https://github.com/chiyiulee/HCIProject/assets/56904293/bc075137-329b-4cd4-a1be-dff738cf3c01" width="250">
