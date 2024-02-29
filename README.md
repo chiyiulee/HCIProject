@@ -1,6 +1,6 @@
 # HCI Project
 A group project in CityU </br>
-Update the government app "iSmart" interface </be>
+Update the government app "iSmart" interface </br>
 <img src="https://github.com/chiyiulee/HCIProject/assets/56904293/e763c207-7ddd-4c32-8b0b-9f5b18bcae52" width="300">
 ![19](https://github.com/chiyiulee/HCIProject/assets/56904293/6ba65659-da40-4512-b9eb-dcce3dcf67ca | width=100)
 ![21](https://github.com/chiyiulee/HCIProject/assets/56904293/bc075137-329b-4cd4-a1be-dff738cf3c01 | width=100)
